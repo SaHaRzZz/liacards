@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/liacards/static/css/main.a4031591.css",
-    "main.js": "/liacards/static/js/main.7e4cbc45.js",
+    "main.css": "/liacards/static/css/main.81a27bcf.css",
+    "main.js": "/liacards/static/js/main.70c57643.js",
+    "static/js/845.2e40c6aa.chunk.js": "/liacards/static/js/845.2e40c6aa.chunk.js",
     "static/js/787.9ed5adea.chunk.js": "/liacards/static/js/787.9ed5adea.chunk.js",
     "static/media/Card_45.png": "/liacards/static/media/Card_45.9581d47bfe13a9b7c4e3.png",
     "static/media/Card_51.png": "/liacards/static/media/Card_51.9581d47bfe13a9b7c4e3.png",
@@ -88,12 +89,13 @@
     "static/media/dva_winkyface.ogg": "/liacards/static/media/dva_winkyface.9118850f92a495d7d4ed.ogg",
     "static/media/logo.svg": "/liacards/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/liacards/index.html",
-    "main.a4031591.css.map": "/liacards/static/css/main.a4031591.css.map",
-    "main.7e4cbc45.js.map": "/liacards/static/js/main.7e4cbc45.js.map",
+    "main.81a27bcf.css.map": "/liacards/static/css/main.81a27bcf.css.map",
+    "main.70c57643.js.map": "/liacards/static/js/main.70c57643.js.map",
+    "845.2e40c6aa.chunk.js.map": "/liacards/static/js/845.2e40c6aa.chunk.js.map",
     "787.9ed5adea.chunk.js.map": "/liacards/static/js/787.9ed5adea.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a4031591.css",
-    "static/js/main.7e4cbc45.js"
+    "static/css/main.81a27bcf.css",
+    "static/js/main.70c57643.js"
   ]
 }
